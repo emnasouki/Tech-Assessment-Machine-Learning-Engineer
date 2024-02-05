@@ -37,6 +37,8 @@
 Welcome to the Machine Learning Engineer Tech Assessment!
 In this assessment, we aim to create and assess a machine learning model for predicting used car prices. 
 The dataset provided contains information about car advertisements, including Maker, Model, Submodel (MMS) IDs, price, mileage, country code, year, currency, and the date of the update.
+<br />
+We have conducted an in-depth exploration of Language Models (LLM) to extract meaningful insights from the dataset. For detailed information on approaches and suggested methodologies, refer to the document: [Utilizing-Language-Models-LLM-for-Data-Exploration.pdf](https://github.com/emnasouki/Tech-Assessment-Machine-Learning-Engineer/blob/44d86d79d2e2b4299987f11de62545a522053f30/Utilizing%20Language%20Models%20(LLM)%20for%20Data%20Exploration.pdf) (located in the repository).
 
 ### Built With 
 
