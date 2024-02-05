@@ -34,7 +34,7 @@
 <!-- About the Project -->
 ## About the Project
 
-Welcome to the Machine Learning Engineer Tech Assessment! 
+Welcome to the Machine Learning Engineer Tech Assessment!
 In this assessment, we aim to create and assess a machine learning model for predicting used car prices. 
 The dataset provided contains information about car advertisements, including Maker, Model, Submodel (MMS) IDs, price, mileage, country code, year, currency, and the date of the update.
 
@@ -60,7 +60,7 @@ The dataset provided contains information about car advertisements, including Ma
    ```
 2. Install dependencies
    ```sh
-   $ cd ech-Assessment-Machine-Learning-Engineer/
+   $ cd Tech-Assessment-Machine-Learning-Engineer/
    $ pip install -r requirements.txt
    ```
 ### Usage
